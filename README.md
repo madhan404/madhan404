@@ -57,6 +57,7 @@ Dive into my world of code, where creativity and consistency blend seamlessly to
 ### 📝 MERN ToDo List – Full Stack  
 📅 Jan 2025  
 • Built a CRUD-based To-Do app with MongoDB, Express.js, React, and Node.js  
+• Used Nodemailer to send mails to the users based on their ToDo List status 
 • Designed a clean, responsive UI and managed user state using `useState` and `useEffect`  
 • Integrated backend with frontend using REST APIs  
 
@@ -99,9 +100,7 @@ Let's spark innovation together! 🧙‍♂️✨
       <img src="https://github-readme-stats.vercel.app/api?username=madhan404&show_icons=true&theme=github_dark" alt="madhan404-readme-stats" />
     </td>
     <td style="border: none;">
-<!--         <img src="https://github-readme-streak-stats.herokuapp.com?user=madhan404&theme=github-dark-blue&cache_bust=true" alt="GitHub Streak" /> -->
       <img src="https://streak-stats.demolab.com?user=madhan404&theme=github-dark-blue" alt="GitHub Streak" />
-      <img src="https://streak-stats.demolab.com?user=madhan404&theme=dracula" alt="GitHub Streak" />
     </td>
   </tr>
 </table>
