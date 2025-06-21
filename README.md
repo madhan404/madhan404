@@ -101,6 +101,8 @@ Let's spark innovation together! 🧙‍♂️✨
     <td style="border: none;">
 <!--         <img src="https://github-readme-streak-stats.herokuapp.com?user=madhan404&theme=github-dark-blue&cache_bust=true" alt="GitHub Streak" /> -->
       <img src="https://streak-stats.demolab.com?user=madhan404&theme=github-dark-blue" alt="GitHub Streak" />
+<img src ="https://streak-stats.demolab.com?user=madhan404&theme=dracula" alt ="streak 2"/>
+      (https://git.io/streak-stats)
     </td>
   </tr>
 </table>
