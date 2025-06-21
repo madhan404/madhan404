@@ -45,7 +45,8 @@ Dive into my world of code, where creativity and consistency blend seamlessly to
       </tr>
     </table>
 
-    - ** 🎞️ Video Editing & Motion Design:** Proficient in creative editing tools for social media, events, and tech content.
+
+    - **🎞️ Video Editing & Motion Design:** Proficient in creative editing tools for social media, events, and tech content.
     <table style = "width:100%; , table-layout: fixed;>
     <tr align="center">
     <th>Picsart</th>
