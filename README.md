@@ -54,13 +54,14 @@ Dive into my world of code, where creativity and consistency blend seamlessly to
     <th>After effects (Learning) </th>
     </tr>
     <tr align="center">
-    <td> <img src="assets/capcut.jpg" alt="capcut" /> </td>
-    <td> <img src="assets/motion ninja.jpg" alt="motion ninja" /> </td>
-    <td> <img src="assets/after effects.jpg" alt="after effects" /> </td>
-    </tr>
+    <td><img src="https://raw.githubusercontent.com/madhan404/madhan404/main/assets/picsart.png" title="Picsart" alt="Picsart" height="50" /></td>
+    <td><img src="https://raw.githubusercontent.com/madhan404/madhan404/main/assets/capcut.png" title="CapCut" alt="CapCut" height="50" /></td>
+    <td><img src="https://raw.githubusercontent.com/madhan404/madhan404/main/assets/motion%20ninja.png" title="Motion Ninja" alt="Motion Ninja" height="50" /></td>
+    <td><img src="https://raw.githubusercontent.com/madhan404/madhan404/main/assets/after%20effects.png" title="After Effects" alt="After Effects" height="50" /></td>
+  </tr>
     </table>
     
-<!--     <td><img src="assets/picsart.jpg" alt="picsart"/></td> -->
+
 
 
 ## 😯 How Do I Contribute ?
