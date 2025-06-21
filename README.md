@@ -28,7 +28,7 @@ Dive into my world of code, where creativity and consistency blend seamlessly to
         </tr>
      </table>
 
-  - **💻Backend Brilliance:** Good in backend development with MongoDB, ExpressJS, NodeJS, I create scalable, efficient, and reliable backend systems.
+  - **💻Backend Brilliance:** Good in backend development with MongoDB, MYSQL, ExpressJS, NodeJS, I create scalable, efficient, and reliable backend systems.
 
     <table style="width: 100%; table-layout: fixed;">
       <tr align="center">
@@ -47,29 +47,38 @@ Dive into my world of code, where creativity and consistency blend seamlessly to
 
 ## 😯 How Do I Contribute ?
 
-### 🟢 Biometric Attendance Portal – Full Stack Developer  
+### 🟢 Biometric Attendance Portal – Full Stack 
 📅 Mar 2025 – Present  
 • Developed a complete attendance management system using React, Node.js, and MySQL  
 • Replaced traditional ID-based login with SIN-based biometric records  
 • Implemented approval hierarchy and real-time attendance status updates  
-• Added PDF upload, cloud storage, and download functionality using `multer`  
+• Added PDF upload, and download functionality using `multer`  
 
-### 📝 MERN ToDo List – Full Stack Developer  
+### 📝 MERN ToDo List – Full Stack  
 📅 Jan 2025  
 • Built a CRUD-based To-Do app with MongoDB, Express.js, React, and Node.js  
 • Designed a clean, responsive UI and managed user state using `useState` and `useEffect`  
 • Integrated backend with frontend using REST APIs  
 
-### 🍔 Omni Food Landing Page – Frontend Developer  
+### 🍔 Omni Food Landing Page – Frontend  
 📅 2024  
 • Created a fully responsive and visually appealing food delivery landing page  
-• Used modern HTML5, CSS3, and basic JavaScript animations  
-• Practiced pixel-perfect layout techniques and mobile responsiveness  
+• Used modern HTML5, CSS3
+• Practiced perfect layout techniques
 
 ### 📹 Content Creation & Design  
 • Designed posters and event banners using Canva  
-• Edited videos for social media and tech events  
+• Edited videos for social media and college events  
 • Experienced in basic brand building for technical content
+
+
+## 🌱 Currently Exploring & Learning
+
+- 🤖 **LLMs (Large Language Models)** – Learning how to build and deploy custom LLM-powered apps  
+- 🔧 **Ollama + DeepSeek** – Installed and used `deepseek-coder` locally through Ollama for lightweight LLM experimentation  
+- 🧠 **LM Studio** – Exploring prompt engineering and local model management  
+- 🧩 **n8n (Workflow Automation)** – Set up a **local chatbot** using n8n + LLM + webhooks — no paid services!  
+- 📡 Interested in integrating AI workflows with real-world tools and backend systems
 
 
 ## How to Reach Me
@@ -91,6 +100,7 @@ Let's spark innovation together! 🧙‍♂️✨
     </td>
     <td style="border: none;">
         <img src="https://github-readme-streak-stats.herokuapp.com?user=madhan404&theme=github-dark-blue&cache_bust=true" alt="GitHub Streak" />
+      [![GitHub Streak](https://streak-stats.demolab.com?user=madhan404&theme=github-dark-blue)](https://git.io/streak-stats)
     </td>
   </tr>
 </table>
