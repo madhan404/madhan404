@@ -44,7 +44,7 @@ Dive into my world of code, where creativity and consistency blend seamlessly to
         <td><img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg" title="NodeJS" alt="NodeJS Madhanraj S" width="55" height="55"/></td>
       </tr>
     </table>
- <img width="1000" src="assets/github-snake.svg" alt="snake"/>
+
     - ** 🎞️ Video Editing & Motion Design:** Proficient in creative editing tools for social media, events, and tech content.
     <table style = "width:100%; , table-layout: fixed;>
     <tr align="center">
@@ -54,13 +54,14 @@ Dive into my world of code, where creativity and consistency blend seamlessly to
     <th>After effects (Learning) </th>
     </tr>
     <tr align="center">
-    <td><img src="assets/picsart.jpg" alt="picsart"/></td>
     <td> <img src="assets/capcut.jpg" alt="capcut" /> </td>
     <td> <img src="assets/motion ninja.jpg" alt="motion ninja" /> </td>
     <td> <img src="assets/after effects.jpg" alt="after effects" /> </td>
     </tr>
     </table>
     
+<!--     <td><img src="assets/picsart.jpg" alt="picsart"/></td> -->
+
 
 ## 😯 How Do I Contribute ?
 
