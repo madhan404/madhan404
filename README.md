@@ -21,7 +21,8 @@
 ![GitHub Streak](https://streak-stats.demolab.com?user=madhan404&theme=dracula)
 
 ### 🐍 Contribution Snake
-![snake gif](https://github.com/madhan404/madhan404/blob/output/github-contribution-grid-snake.svg)
+
+![snake gif](https://raw.githubusercontent.com/madhan404/madhan404/output/github-contribution-grid-snake.svg)
 
 <!--
 **madhan404/madhan404** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
