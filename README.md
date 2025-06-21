@@ -8,8 +8,8 @@
 
 ## 📫 Reach Me
 - Email: madhanrajs047@gmail.com
-- [LinkedIn](https://www.linkedin.com/in/madhanraj-s-35430a284)
-- [Portfolio]()
+- LinkedIn : [LinkedIn](https://www.linkedin.com/in/madhanraj-s-35430a284)
+- Portfolio : [Portfolio]()
 
 
 ### 📊 GitHub Stats
