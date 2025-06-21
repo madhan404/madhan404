@@ -45,6 +45,9 @@ Dive into my world of code, where creativity and consistency blend seamlessly to
       </tr>
     </table>
 
+    - ** 🎞️ Video Editing & Motion Design:** Proficient in creative editing tools for social media, events, and tech content.
+    - 
+
 ## 😯 How Do I Contribute ?
 
 ### 🟢 Biometric Attendance Portal – Full Stack 
@@ -110,5 +113,5 @@ Let's spark innovation together! 🧙‍♂️✨
 ![My Contributions](https://github-readme-activity-graph.vercel.app/graph?username=madhan404&bg_color=0d1117&color=58a6ff&line=1f6feb&point=ffffff&area=true&hide_border=false)
 
 <p align="center">
- <img width="1000" src="github-snake.svg" alt="snake"/>
+ <img width="1000" src="assets/github-snake.svg" alt="snake"/>
 </p>
