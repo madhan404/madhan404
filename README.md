@@ -1,4 +1,4 @@
-## 👋 Hello! I'm Madhan...
+## 👋 Hello! I'm Madhanraj...
 
 ## 🚀 Skills
 - 🌐 Frontend: HTML, CSS, JavaScript, React
@@ -18,10 +18,7 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=madhan404&layout=compact&theme=radical)
 
 ### 🔥 GitHub Streak
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=madhan404&theme=radical)](https://git.io/streak-stats)
-[![GitHub Streak](https://streak-stats.demolab.com/?user=madhaneey)](https://git.io/streak-stats)
-[![GitHub Streak](https://streak-stats.demolab.com?user=madhan404&theme=dracula)](https://git.io/streak-stats)
-<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=madhan404&theme=dracula" alt="GitHub Streak" /></a>
+![GitHub Streak](https://streak-stats.demolab.com?user=madhan404&theme=dracula)
 
 ### 🐍 Contribution Snake
 ![snake gif](https://github.com/madhan404/madhan404/blob/output/github-contribution-grid-snake.svg)
