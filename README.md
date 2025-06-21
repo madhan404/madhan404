@@ -14,7 +14,6 @@ Dive into my world of code, where creativity and consistency blend seamlessly to
       <tr align="center">
         <th>HTML</th>
         <th>CSS3</th>
-        <th>Bootstrap</th>
         <th>Tailwind</th>
         <th>JavaScript</th>
         <th>ReactJS</th>
@@ -27,8 +26,7 @@ Dive into my world of code, where creativity and consistency blend seamlessly to
         <td><img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript Madhanraj S" height="55" width="55";/></td>
         <td><img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" title="ReactJS" alt="ReactJS Madhanraj S" height="55" width="55";/></td>
 
-      </tr>
-    </table>
+    
 
   - **💻Backend Brilliance:** Good in backend development with MongoDB, ExpressJS, NodeJS, I create scalable, efficient, and reliable backend systems.
 
@@ -76,11 +74,11 @@ Dive into my world of code, where creativity and consistency blend seamlessly to
 
 ## How to Reach Me
 
-📫 Drop me a line at sibisiddharth8@gmail.com.
+📫 Drop me a line at madhanrajs047@gmail.com.
 
 🔮 Let's connect on [LinkedIn](https://www.linkedin.com/in/madhanraj-s-35430a284).
 
-🪄 Do Check [MyMind | Portfolio]().
+🪄 Do Check [Portfolio]().
 
 Let's spark innovation together! 🧙‍♂️✨
 
