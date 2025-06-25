@@ -108,7 +108,7 @@ Dive into my world of code, where creativity and consistency blend seamlessly to
 
 🔮 Let's connect on [LinkedIn](https://www.linkedin.com/in/madhanraj-s-35430a284).
 
-🪄 Do Check [Portfolio]().
+🪄 Do Check [Portfolio](https://portfolio-contact-4ca82.web.app/)
 
 Let's spark innovation together! 🧙‍♂️✨
 
