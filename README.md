@@ -1,8 +1,5 @@
 # Hi there! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> I'm Madhanraj S 🚀✨ ![](https://komarev.com/ghpvc/?username=madhan404&color=1f6feb&style=flat-square)
 
-Let's launch this project! <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExaHkwdjE5Ym9iZWNmZ3FuNmpudXlubWZmdnMzNDB6dHF3ZG93MzAwbiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/utz68KlKM5LGBVF6HZ/giphy.gif" width="40px">
-
-
 Dive into my world of code, where creativity and consistency blend seamlessly to craft solutions.
 
 ## 🫣 Who Am I ?
