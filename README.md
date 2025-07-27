@@ -1,4 +1,4 @@
-# Hi there! 👋 I'm Madhanraj S 🚀✨ ![](https://komarev.com/ghpvc/?username=madhan404&color=1f6feb&style=flat-square)
+# Hi there! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> I'm Madhanraj S 🚀✨ ![](https://komarev.com/ghpvc/?username=madhan404&color=1f6feb&style=flat-square)
 
 Dive into my world of code, where creativity and consistency blend seamlessly to craft solutions.
 
