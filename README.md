@@ -1,4 +1,4 @@
-# <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25" alt="wave"> Hey, I’m Madhanraj S 🚀✨ ![](https://komarev.com/ghpvc/?username=madhan404&color=1f6feb&style=flat-square)
+# <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25" alt="wave"> Hey, I'm Madhanraj S 🚀✨ ![](https://komarev.com/ghpvc/?username=madhan404&color=1f6feb&style=flat-square)
 
 📍 Nachipatti, Tamil Nadu &nbsp;<img src="https://img.icons8.com/color/20/000000/india.png" alt="India">  
 **Full-Stack Developer | Creative Technologist | AI Explorer**  
@@ -15,53 +15,36 @@
 
 <table>
   <tr>
-    <td valign="top">
-      <h4 align="center">Frontend</h4>
-      <div align="center">
-        <img src="https://img.icons8.com/color/40/000000/html-5.png" alt="HTML5" title="HTML5">&nbsp;
-        <img src="https://img.icons8.com/color/40/000000/css3.png" alt="CSS3" title="CSS3">&nbsp;
-        <img src="https://img.icons8.com/color/40/000000/javascript.png" alt="JavaScript" title="JavaScript">&nbsp;
-        <img src="https://img.icons8.com/color/40/000000/react-native.png" alt="React" title="React">&nbsp;
-        <img src="https://img.icons8.com/color/40/000000/tailwindcss.png" alt="Tailwind" title="Tailwind">
-      </div>
+    <td valign="top" align="center">
+      <h4>Frontend</h4>
+      <img src="https://img.icons8.com/color/40/000000/html-5.png" alt="HTML5" title="HTML5" />&nbsp;
+      <img src="https://img.icons8.com/color/40/000000/css3.png" alt="CSS3" title="CSS3" />&nbsp;
+      <img src="https://img.icons8.com/color/40/000000/javascript.png" alt="JavaScript" title="JavaScript" />&nbsp;
+      <img src="https://img.icons8.com/color/40/000000/react-native.png" alt="React" title="React" />&nbsp;
+      <img src="https://img.icons8.com/color/40/000000/tailwindcss.png" alt="Tailwind" title="Tailwind" />
     </td>
-    <td valign="top">
-      <h4 align="center">Backend</h4>
-      <div align="center">
-        <img src="https://img.icons8.com/color/40/000000/nodejs.png" alt="Node.js" title="Node.js">&nbsp;
-        <img src="https://img.icons8.com/color/40/000000/express.png" alt="Express" title="Express" style="background-color: #f7df1e; border-radius: 5px;">&nbsp;
-        <img src="https://img.icons8.com/color/40/000000/mongodb.png" alt="MongoDB" title="MongoDB">&nbsp;
-        <img src="https://img.icons8.com/color/40/000000/mysql.png" alt="MySQL" title="MySQL">
-      </div>
+    <td valign="top" align="center">
+      <h4>Backend</h4>
+      <img src="https://img.icons8.com/color/40/000000/nodejs.png" alt="Node.js" title="Node.js" />&nbsp;
+      <img src="https://img.icons8.com/color/40/000000/express.png" alt="Express" title="Express" style="background-color: #f7df1e; border-radius: 5px;" />&nbsp;
+      <img src="https://img.icons8.com/color/40/000000/mongodb.png" alt="MongoDB" title="MongoDB" />&nbsp;
+      <img src="https://img.icons8.com/color/40/000000/mysql.png" alt="MySQL" title="MySQL" />
     </td>
-  </tr>
-  <tr>
-    <td valign="top">
-      <h4 align="center">Dev Tools</h4>
-      <div align="center">
-        <img src="https://img.icons8.com/color/40/000000/visual-studio-code-2019.png" alt="VS Code" title="VS Code">&nbsp;
-        <img src="https://img.icons8.com/color/40/000000/git.png" alt="Git" title="Git">&nbsp;
-        <img src="https://img.icons8.com/color/40/000000/docker.png" alt="Docker" title="Docker">&nbsp;
-        <img src="https://avatars.githubusercontent.com/u/108958774?s=40&v=4" alt="LM Studio" title="LM Studio">
-      </div>
-    </td>
-    <td valign="top">
-      <h4 align="center">Creative & Video</h4>
-      <div align="center">
-        <img src="https://raw.githubusercontent.com/madhan404/madhan404/main/assets/pple.png" height="40" alt="Picsart" title="Picsart">&nbsp;
-        <img src="https://raw.githubusercontent.com/madhan404/madhan404/main/assets/capcut.png" height="40" alt="CapCut" title="CapCut">&nbsp;
-        <img src="https://raw.githubusercontent.com/madhan404/madhan404/main/assets/after%20effects.png" height="40" alt="After Effects" title="After Effects">&nbsp;
-        <img src="https://img.icons8.com/color/40/000000/davinci-resolve.png" alt="DaVinci Resolve" title="DaVinci Resolve">
-      </div>
+    <td valign="top" align="center">
+      <h4>Dev Tools</h4>
+      <img src="https://img.icons8.com/color/40/000000/visual-studio-code-2019.png" alt="VS Code" title="VS Code" />&nbsp;
+      <img src="https://img.icons8.com/color/40/000000/git.png" alt="Git" title="Git" />&nbsp;
+      <img src="https://img.icons8.com/color/40/000000/docker.png" alt="Docker" title="Docker" />&nbsp;
+      <img src="https://lmstudio.ai/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Flmstudio-app-logo.61cb7d80.webp&w=3840&q=75" alt="LM Studio" title="LM Studio" height="40" />
     </td>
   </tr>
   <tr>
-    <td valign="top" colspan="2">
-      <h4 align="center">Learning</h4>
-      <div align="center">
-        <img src="https://raw.githubusercontent.com/madhan404/madhan404/main/assets/after%20effects.png" height="40" alt="After Effects" title="After Effects">&nbsp;
-        <img src="https://img.icons8.com/color/40/000000/davinci-resolve.png" alt="DaVinci Resolve" title="DaVinci Resolve">
-      </div>
+    <td colspan="3" valign="top" align="center">
+      <h4>Creative & Video</h4>
+      <img src="https://raw.githubusercontent.com/madhan404/madhan404/main/assets/pple.png" height="40" alt="Picsart" title="Picsart" />&nbsp;
+      <img src="https://raw.githubusercontent.com/madhan404/madhan404/main/assets/capcut.png" height="40" alt="CapCut" title="CapCut" />&nbsp;
+      <img src="https://raw.githubusercontent.com/madhan404/madhan404/main/assets/after%20effects.png" height="40" alt="After Effects" title="After Effects" />&nbsp;
+      <img src="https://img.icons8.com/color/40/000000/davinci-resolve.png" alt="DaVinci Resolve" title="DaVinci Resolve" height="40" />
     </td>
   </tr>
 </table>
@@ -70,23 +53,22 @@
 
 ## 🚀 Projects
 
-<!-- INSERT YOUR PROJECT BADGES HERE, FORMATTED AS SHOWN -->
 <a href="https://github.com/madhan404/project-1" title="Source Code"><img src="https://img.shields.io/badge/-PROJECT%20NAME-blue?style=for-the-badge&logo=github"></a> <a href="https://demo-1.here" title="Live Preview"><img src="https://img.shields.io/badge/-Live%20Preview-green?style=for-the-badge&logo=vercel"></a><br>
 <a href="https://github.com/madhan404/project-2" title="Source Code"><img src="https://img.shields.io/badge/-PROJECT%20NAME-blue?style=for-the-badge&logo=github"></a> <a href="https://demo-2.here" title="Live Preview"><img src="https://img.shields.io/badge/-Live%20Preview-green?style=for-the-badge&logo=vercel"></a><br>
 <!-- Add more projects as needed -->
 
-**Instructions:**  
-Replace `PROJECT NAME`, `https://github.com/madhan404/project-1`, and `https://demo-1.here` with your actual project names, GitHub repo links, and live demo URLs.  
-Add or remove lines as needed.
+**Replace** `PROJECT NAME`, `https://github.com/madhan404/project-1`, and `https://demo-1.here`  
+with **your actual project names, GitHub repo links, and live demo URLs**  
+from your **portfolio**.
 
 ---
 
 ## 🌱 What’s Next
 
-- **AI & LLMs:** Building, fine-tuning, and deploying custom models
-- **Workflow Automation:** Connecting AI, APIs, and no-code with n8n
-- **Creative Tools:** Blending code + design for unique projects
-- **Community:** Sharing knowledge, tutorials, and open-source work
+- **AI & LLMs:** Building and fine-tuning custom models
+- **Workflow Automation:** Connecting AI, APIs, and no-code tools
+- **Creative Tools:** Blending code and design for unique digital experiences
+- **Community:** Sharing knowledge and contributing to open-source
 
 ---
 
@@ -106,14 +88,15 @@ Add or remove lines as needed.
 ---
 
 <p align="center">
-  <img src="assets/github-snake.svg" alt="Snake Animation">
+  <!-- Removed snake animation as requested -->
 </p>
 
 ---
 
-### 🚀 Let’s Build the Future
+### 🚀 Ready to Craft the Extraordinary
 
-If you have an idea, a challenge, or just want to talk tech, design, or AI—**I’m all in**.  
-Let’s make things that matter—together. 🧑‍💻✨
+If you have an idea, a challenge, or just want to chat tech, design, or AI—**I’m all ears**.  
+Let’s push boundaries, break the mold, and make things that truly stand out.  
+Reach out, and let’s create something that matters.
 
-This is **your playground**—play, build, and share the future.
+**Your vision. My skills. Our impact.**
