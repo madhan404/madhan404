@@ -56,13 +56,9 @@
 
 ## 🚀 Projects
 
-<a href="https://github.com/madhan404/project-1" title="Source Code"><img src="https://img.shields.io/badge/-PROJECT%20NAME-blue?style=for-the-badge&logo=github"></a> <a href="https://demo-1.here" title="Live Preview"><img src="https://img.shields.io/badge/-Live%20Preview-green?style=for-the-badge&logo=vercel"></a><br>
+<a href="https://github.com/madhan404/Restaurant-Management-System.git" title="Source Code"><img src="https://img.shields.io/badge/-Reataurant management system-blue?style=for-the-badge&logo=github"></a> <a href="https://restaurant-managementsystem.netlify.app/login" title="Live Preview"><img src="https://img.shields.io/badge/-Live%20Preview-green?style=for-the-badge&logo=vercel"></a><br>
 <a href="https://github.com/madhan404/project-2" title="Source Code"><img src="https://img.shields.io/badge/-PROJECT%20NAME-blue?style=for-the-badge&logo=github"></a> <a href="https://demo-2.here" title="Live Preview"><img src="https://img.shields.io/badge/-Live%20Preview-green?style=for-the-badge&logo=vercel"></a><br>
-<!-- Add more projects as needed -->
 
-**Replace** `PROJECT NAME`, `https://github.com/madhan404/project-1`, and `https://demo-1.here`  
-with **your actual project names, GitHub repo links, and live demo URLs**  
-from your **portfolio**.
 
 ---
 
