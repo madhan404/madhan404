@@ -27,7 +27,7 @@
     <td valign="top" align="center">
       <h4>Backend</h4>
       <img src="https://img.icons8.com/color/32/000000/nodejs.png" alt="Node.js" title="Node.js" />&nbsp;
-      <img src="https://i.ibb.co/4JqZYpJ/express-32.png" alt="Express" title="Express" width="32" height="32" />&nbsp;
+      <img src="https://media.licdn.com/dms/image/v2/D4D12AQFutpP9wVAeIg/article-cover_image-shrink_720_1280/article-cover_image-shrink_720_1280/0/1718341193276?e=2147483647&v=beta&t=em32ZEf75gBr8vAQNo5G4jFIyqZqS3Iwtv3790z0-rA" alt="Express" title="Express" width="32" height="32" />&nbsp;
       <img src="https://img.icons8.com/color/32/000000/mongodb.png" alt="MongoDB" title="MongoDB" />&nbsp;
       <img src="https://img.icons8.com/color/32/000000/mysql.png" alt="MySQL" title="MySQL" />
     </td>
