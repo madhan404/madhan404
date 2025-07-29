@@ -36,7 +36,7 @@
       <img src="https://img.icons8.com/color/32/000000/visual-studio-code-2019.png" alt="VS Code" title="VS Code" />&nbsp;
       <img src="https://img.icons8.com/color/32/000000/git.png" alt="Git" title="Git" />&nbsp;
       <img src="https://img.icons8.com/color/32/000000/docker.png" alt="Docker" title="Docker" />&nbsp;
-      <img src="https://raw.githubusercontent.com/madhan404/madhan404/main/assets/lmstudio-32.png" alt="LM Studio" title="LM Studio" width="32" height="32" />
+      <img src="https://lmstudio.ai/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Flmstudio-app-logo.61cb7d80.webp&w=3840&q=75" alt="LM Studio" title="LM Studio" width="32" height="32" />
     </td>
   </tr>
   <tr>
