@@ -69,6 +69,14 @@
 <a href="https://github.com/madhan404/Mern-Todo_List.git" title="Source Code"><img src="https://img.shields.io/badge/-TODO LIST-3F51B5?style=for-the-badge&logo=github"></a> <a href="#" title="Live Preview"><img src="https://img.shields.io/badge/-Live_Preview-3F51B5?style=for-the-badge&logo=vercel"></a><br>
 
 
+| Project | Source Code | Live Preview |
+|---------|-------------|--------------|
+| **[Restaurant Management System](#)** | [![Source Code](https://img.shields.io/badge/-GitHub-4CAF50?style=for-the-badge&logo=github)](https://github.com/madhan404/Restaurant-Management-System.git) | [![Live Preview](https://img.shields.io/badge/-Live_Preview-4CAF50?style=for-the-badge&logo=vercel)](https://restaurant-managementsystem.netlify.app/login) |
+| **[Biometric Attendance Portal](#)** | [![Source Code](https://img.shields.io/badge/-GitHub-2196F3?style=for-the-badge&logo=github)](https://github.com/madhan404/biometric_attendance_portal.git) | [![Live Preview](https://img.shields.io/badge/-Live_Preview-2196F3?style=for-the-badge&logo=vercel)](https://biometric-attendance-system.netlify.app/) |
+| **[GST Bill Web App](#)** | [![Source Code](https://img.shields.io/badge/-GitHub-FF9800?style=for-the-badge&logo=github)](https://github.com/madhan404/gst-bill-webapp) | [![Live Preview](https://img.shields.io/badge/-Live_Preview-FF9800?style=for-the-badge&logo=vercel)](https://mellow-moxie-829df5.netlify.app/login) |
+| **[Madhanuuh Ui](#)** | [![Source Code](https://img.shields.io/badge/-GitHub-FF5722?style=for-the-badge&logo=github)](https://github.com/madhan404/Html_Projects/tree/main/Madhanuuh%20UI) | [![Live Preview](https://img.shields.io/badge/-Live_Preview-FF5722?style=for-the-badge&logo=vercel)](https://madhanuh.neocities.org/Madhanuuh%20UI/) |
+| **[Omni Food](#)** | [![Source Code](https://img.shields.io/badge/-GitHub-9C27B0?style=for-the-badge&logo=github)](https://github.com/madhan404/Html_Projects/tree/main/omni-food) | [![Live Preview](https://img.shields.io/badge/-Live_Preview-9C27B0?style=for-the-badge&logo=vercel)](https://madhanuh.neocities.org/Omni_Food/) |
+| **[TODO LIST](#)** | [![Source Code](https://img.shields.io/badge/-GitHub-3F51B5?style=for-the-badge&logo=github)](https://github.com/madhan404/Mern-Todo_List.git) | [![Live Preview](https://img.shields.io/badge/-Live_Preview-3F51B5?style=for-the-badge&logo=vercel)](#) |
 
 ---
 
