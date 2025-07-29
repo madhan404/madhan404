@@ -32,7 +32,7 @@
     <td valign="top" align="center">
       <h4>Database</h4>
       <img src="[https://img.icons8.com/color/40/000000/mongodb.png](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ9p_G7WR97buHsTlFGGRRufWq5e8ezZrRINw&s)" alt="MongoDB" title="MongoDB" width="40" height="40" />&nbsp;
-      <img src="[https://img.icons8.com/color/40/000000/mysql.png](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSWuqrVW9zyFVpwTWsxOST86VF2YrEoQaDRFt2PsL5osB-l8hShuU2uL9c3RIgO49PSPHk&usqp=CAU)" alt="MySQL" title="MySQL" width="40" height="40"  />
+      <img src="[https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSWuqrVW9zyFVpwTWsxOST86VF2YrEoQaDRFt2PsL5osB-l8hShuU2uL9c3RIgO49PSPHk&usqp=CAU](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSWuqrVW9zyFVpwTWsxOST86VF2YrEoQaDRFt2PsL5osB-l8hShuU2uL9c3RIgO49PSPHk&usqp=CAU)" alt="MySQL" title="MySQL" width="40" height="40"  />
     </td>
     <td valign="top" align="center">
       <h4>Dev Tools</h4>
