@@ -4,7 +4,7 @@
 **Full-Stack Developer | Creative Technologist | AI Explorer**  
 🌱 **Exploring:** LLMs, Ollama, n8n, local AI workflows &nbsp;|&nbsp; 🧑‍🎨 **Video Editing & Design Enthusiast**
 
-<a href="https://portfolio-contact-4ca82.web.app/" title="Portfolio"><img src="https://img.shields.io/badge/-Portfolio-brightgreen?style=for-the-badge&logo=vercel"></a> <a href="mailto:madhanrajs047@gmail.com" title="Email"><img src="https://img.shields.io/badge/-Email-0078D4?style=for-the-badge&logo=gmail"></a> <a href="https://www.linkedin.com/in/madhanraj-s-35430a284" title="LinkedIn"><img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin"></a> madhanrajs047@gmail.com
+<a href="https://portfolio-contact-4ca82.web.app/" title="Portfolio"><img src="https://img.shields.io/badge/-Portfolio-brightgreen?style=for-the-badge&logo=vercel"></a> <a href="mailto:madhanrajs047@gmail.com" title="Email"><img src="https://img.shields.io/badge/-Email-0078D4?style=for-the-badge&logo=gmail"></a> <a href="https://www.linkedin.com/in/madhanraj-s-35430a284" title="LinkedIn"><img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin"></a> <a href="https://www.instagram.com/madhanuuh/?igsh=dHZsY3hkODB6bzhi#" title="Instagram"><img src="https://img.shields.io/badge/-Instagram-0A66C2?style=for-the-badge&logo=instagram"></a>
 
 ⚡ **Fun fact:** I can turn a UI mockup into a pixel-perfect site—and then edit a promo video for it!  
 🪄 **Let’s build something memorable together.**
@@ -31,8 +31,8 @@
     </td>
     <td valign="top" align="center">
       <h4>Database</h4>
-      <img src="https://img.icons8.com/color/40/000000/mongodb.png" alt="MongoDB" title="MongoDB" />&nbsp;
-      <img src="https://img.icons8.com/color/40/000000/mysql.png" alt="MySQL" title="MySQL" />
+      <img src="[https://img.icons8.com/color/40/000000/mongodb.png](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ9p_G7WR97buHsTlFGGRRufWq5e8ezZrRINw&s)" alt="MongoDB" title="MongoDB" width="40" height="40" />&nbsp;
+      <img src="[https://img.icons8.com/color/40/000000/mysql.png](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSWuqrVW9zyFVpwTWsxOST86VF2YrEoQaDRFt2PsL5osB-l8hShuU2uL9c3RIgO49PSPHk&usqp=CAU)" alt="MySQL" title="MySQL" width="40" height="40"  />
     </td>
     <td valign="top" align="center">
       <h4>Dev Tools</h4>
