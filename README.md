@@ -54,14 +54,15 @@
 
 ---
 
-## 🚀 Projects
+## 🚀 Featured Projects
 
-<a href="https://github.com/madhan404/Restaurant-Management-System.git" title="Source Code"><img src="https://img.shields.io/badge/-Reataurant management system-blue?style=for-the-badge&logo=github"></a> <a href="https://restaurant-managementsystem.netlify.app/login" title="Live Preview"><img src="https://img.shields.io/badge/-Live%20Preview-green?style=for-the-badge&logo=vercel"></a><br>
-<a href="https://github.com/madhan404/gst-bill-webapp" title="Source Code"><img src="https://img.shields.io/badge/-GST BILL WEB APP-blue?style=for-the-badge&logo=github"></a> <a href="https://mellow-moxie-829df5.netlify.app/login" title="Live Preview"><img src="https://img.shields.io/badge/-Live%20Preview-green?style=for-the-badge&logo=vercel"></a><br>
-<a href="https://github.com/madhan404/biometric_attendance_portal.git" title="Source Code"><img src="https://img.shields.io/badge/-biometric attendance portal-blue?style=for-the-badge&logo=github"></a> <a href="https://biometric-attendance-system.netlify.app/" title="Live Preview"><img src="https://img.shields.io/badge/-Live%20Preview-green?style=for-the-badge&logo=vercel"></a><br>
-<a href="https://github.com/madhan404/Html_Projects/tree/main/omni-food" title="Source Code"><img src="https://img.shields.io/badge/-Omni Food-blue?style=for-the-badge&logo=github"></a> <a href="https://madhanuh.neocities.org/Omni_Food/" title="Live Preview"><img src="https://img.shields.io/badge/-Live%20Preview-green?style=for-the-badge&logo=vercel"></a><br>
-<a href="https://github.com/madhan404/Html_Projects/tree/main/Madhanuuh%20UI" title="Source Code"><img src="https://img.shields.io/badge/-Creative Frontend Experiments-blue?style=for-the-badge&logo=github"></a> <a href="https://madhanuh.neocities.org/Madhanuuh%20UI/" title="Live Preview"><img src="https://img.shields.io/badge/-Live%20Preview-green?style=for-the-badge&logo=vercel"></a><br>
-<a href="https://github.com/madhan404/Mern-Todo_List.git" title="Source Code"><img src="https://img.shields.io/badge/-TODO LIST-blue?style=for-the-badge&logo=github"></a> <br>
+<a href="https://github.com/madhan404/Restaurant-Management-System.git" title="Source Code"><img src="https://img.shields.io/badge/-Restaurant Management System-4CAF50?style=for-the-badge&logo=github"></a> <a href="https://restaurant-managementsystem.netlify.app/login" title="Live Preview"><img src="https://img.shields.io/badge/-Live_Preview-4CAF50?style=for-the-badge&logo=vercel"></a><br>
+<a href="https://github.com/madhan404/gst-bill-webapp" title="Source Code"><img src="https://img.shields.io/badge/-GST Bill Web App-FF9800?style=for-the-badge&logo=github"></a> <a href="https://mellow-moxie-829df5.netlify.app/login" title="Live Preview"><img src="https://img.shields.io/badge/-Live_Preview-FF9800?style=for-the-badge&logo=vercel"></a><br>
+<a href="https://github.com/madhan404/biometric_attendance_portal.git" title="Source Code"><img src="https://img.shields.io/badge/-Biometric Attendance Portal-2196F3?style=for-the-badge&logo=github"></a> <a href="https://biometric-attendance-system.netlify.app/" title="Live Preview"><img src="https://img.shields.io/badge/-Live_Preview-2196F3?style=for-the-badge&logo=vercel"></a><br>
+<a href="https://github.com/madhan404/Html_Projects/tree/main/omni-food" title="Source Code"><img src="https://img.shields.io/badge/-Omni Food-9C27B0?style=for-the-badge&logo=github"></a> <a href="https://madhanuh.neocities.org/Omni_Food/" title="Live Preview"><img src="https://img.shields.io/badge/-Live_Preview-9C27B0?style=for-the-badge&logo=vercel"></a><br>
+<a href="https://github.com/madhan404/Html_Projects/tree/main/Madhanuuh%20UI" title="Source Code"><img src="https://img.shields.io/badge/-Creative Frontend Experiments-FF5722?style=for-the-badge&logo=github"></a> <a href="https://madhanuh.neocities.org/Madhanuuh%20UI/" title="Live Preview"><img src="https://img.shields.io/badge/-Live_Preview-FF5722?style=for-the-badge&logo=vercel"></a><br>
+<a href="https://github.com/madhan404/Mern-Todo_List.git" title="Source Code"><img src="https://img.shields.io/badge/-TODO LIST-3F51B5?style=for-the-badge&logo=github"></a> <a href="#" title="Live Preview"><img src="https://img.shields.io/badge/-Live_Preview-3F51B5?style=for-the-badge&logo=vercel"></a><br>
+
 
 
 ---
