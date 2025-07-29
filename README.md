@@ -1,41 +1,50 @@
-# <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> Hey There! I'm Madhanraj S 🚀✨ ![](https://komarev.com/ghpvc/?username=madhan404&color=1f6feb&style=flat-square)
+# <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px" alt="wave"> Hey, I’m Madhanraj S 🚀✨ ![](https://komarev.com/ghpvc/?username=madhan404&color=1f6feb&style=flat-square)
 
-📍 Vennandur, Tamil Nadu, India  
-**Full-Stack Developer | Creative Technologist | AI Explorer**  
-🌱 Currently diving deep into **LLMs, Ollama, n8n, and local AI workflows**  
-🧑‍🎨 **Video editing, design, and creative content** are my playground
+📍 Vennandur, Tamil Nadu &nbsp;<img src="https://img.icons8.com/color/20/000000/india.png" alt="India">  
+**Full-Stack Developer &nbsp;|&nbsp; Creative Technologist &nbsp;|&nbsp; AI Explorer**  
+🌱 **Exploring:** LLMs, Ollama, n8n, local AI workflows &nbsp;|&nbsp; 🧑‍🎨 **Video Editing & Design Enthusiast**
 
----
+<a href="https://portfolio-contact-4ca82.web.app/" title="Portfolio"><img src="https://img.shields.io/badge/-Portfolio-brightgreen?style=for-the-badge&logo=vercel"></a> <a href="mailto:madhanrajs047@gmail.com" title="Email"><img src="https://img.shields.io/badge/-Email-0078D4?style=for-the-badge&logo=gmail"></a> <a href="https://www.linkedin.com/in/madhanraj-s-35430a284" title="LinkedIn"><img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin"></a> madhanrajs047@gmail.com
 
-### 🫱 Connect with Me
-
-[![Portfolio](https://img.shields.io/badge/🏠_Portfolio_-brightgreen?style=for-the-badge&logo=vercel&link=https://portfolio-contact-4ca82.web.app/)](https://portfolio-contact-4ca82.web.app/) [✨ portfolio-contact-4ca82.web.app](https://portfolio-contact-4ca82.web.app/)  [![Email](https://img.shields.io/badge/📧_Email_-0078D4?style=for-the-badge&logo=gmail)](mailto:madhanrajs047@gmail.com) madhanrajs047@gmail.com  [![LinkedIn](https://img.shields.io/badge/🔗_LinkedIn_-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/madhanraj-s-35430a284) [LinkedIn](https://www.linkedin.com/in/madhanraj-s-35430a284)
-
-⚡ **Fun fact:** I can turn a UI mockup into a pixel-perfect site—and then edit a video promo for it!  
-🪄 **Let’s build something memorable.**
+⚡ **Fun fact:** I can turn a UI mockup into a pixel-perfect site—and then edit a promo video for it!  
+🪄 **Let’s build something memorable together.**
 
 ---
 
-## 🛠️ Tech Stack
+## 🧰 Tech Stack
 
-| Frontend      |   | Backend      |   | Creative Tools      |   | Learning Now      |
-|---------------|---|--------------|---|--------------------|---|-------------------|
-| ![HTML5](https://img.icons8.com/color/48/000000/html-5.png) | ![CSS3](https://img.icons8.com/color/48/000000/css3.png) | ![React](https://img.icons8.com/color/48/000000/react-native.png) | ![JavaScript](https://img.icons8.com/color/48/000000/javascript.png) | ![Node.js](https://img.icons8.com/color/48/000000/nodejs.png) | ![Express](https://img.icons8.com/color/48/null/express.png) |
-| ![Tailwind](https://img.icons8.com/color/48/000000/tailwindcss.png) | ![MongoDB](https://img.icons8.com/color/48/000000/mongodb.png) | ![MySQL](https://img.icons8.com/color/48/000000/mysql.png) | ![Picsart](https://raw.githubusercontent.com/madhan404/madhan404/main/assets/pple.png) | ![CapCut](https://raw.githubusercontent.com/madhan404/madhan404/main/assets/capcut.png) | ![After Effects](https://raw.githubusercontent.com/madhan404/madhan404/main/assets/after%20effects.png) | ![Ollama](https://avatars.githubusercontent.com/u/113901394?s=200&v=4) | ![n8n](https://avatars.githubusercontent.com/u/54139627?s=200&v=4) | ![LM Studio](https://avatars.githubusercontent.com/u/108958774?s=200&v=4) |
+**Frontend**  
+<img src="https://img.icons8.com/color/30/000000/html-5.png" alt="HTML5" title="HTML5">&nbsp;<img src="https://img.icons8.com/color/30/000000/css3.png" alt="CSS3" title="CSS3">&nbsp;<img src="https://img.icons8.com/color/30/000000/javascript.png" alt="JavaScript" title="JavaScript">&nbsp;<img src="https://img.icons8.com/color/30/000000/react-native.png" alt="React" title="React">&nbsp;<img src="https://img.icons8.com/color/30/000000/tailwindcss.png" alt="Tailwind" title="Tailwind">
+
+**Backend**  
+<img src="https://img.icons8.com/color/30/000000/nodejs.png" alt="Node.js" title="Node.js">&nbsp;<img src="https://img.icons8.com/color/30/000000/express.png" alt="Express" title="Express">&nbsp;<img src="https://img.icons8.com/color/30/000000/mongodb.png" alt="MongoDB" title="MongoDB">&nbsp;<img src="https://img.icons8.com/color/30/000000/mysql.png" alt="MySQL" title="MySQL">
+
+**Dev Tools**  
+<img src="https://img.icons8.com/color/30/000000/visual-studio-code-2019.png" alt="VS Code" title="VS Code">&nbsp;<img src="https://img.icons8.com/color/30/000000/git.png" alt="Git" title="Git">&nbsp;<img src="https://img.icons8.com/dusk/30/000000/anaconda.png" alt="Anaconda" title="Anaconda">
+
+**Creative & Video**  
+<img src="https://raw.githubusercontent.com/madhan404/madhan404/main/assets/pple.png" height="25" alt="Picsart" title="Picsart">&nbsp;<img src="https://raw.githubusercontent.com/madhan404/madhan404/main/assets/capcut.png" height="25" alt="CapCut" title="CapCut">&nbsp;<img src="https://raw.githubusercontent.com/madhan404/madhan404/main/assets/motion ninja.png" height="25" alt="Motion Ninja" title="Motion Ninja">&nbsp;<img src="https://raw.githubusercontent.com/madhan404/madhan404/main/assets/after effects.png" height="25" alt="After Effects" title="After Effects">
+
+**Learning Now**  
+<img src="https://avatars.githubusercontent.com/u/113901394?s=30&v=4" alt="Ollama" title="Ollama">&nbsp;<img src="https://avatars.githubusercontent.com/u/54139627?s=30&v=4" alt="n8n" title="n8n">&nbsp;<img src="https://avatars.githubusercontent.com/u/108958774?s=30&v=4" alt="LM Studio" title="LM Studio">
 
 ---
 
-## 🚀 My Projects
+## 🚀 Projects
 
-- **[Project Name 1](https://github.com/yourusername/repo1)** • [Live Preview](#) *(demo link from your portfolio)*
-- **[Project Name 2](https://github.com/yourusername/repo2)** • [Live Preview](#) *(demo link from your portfolio)*
-- **[Project Name 3](https://github.com/yourusername/repo3)** • [Live Preview](#) *(demo link from your portfolio)*
-- **[Project Name 4](https://github.com/yourusername/repo4)** • [Live Preview](#) *(demo link from your portfolio)*
-- **[Project Name 5](https://github.com/yourusername/repo5)** • [Live Preview](#) *(demo link from your portfolio)*
+<!-- PASTE YOUR PROJECT BADGE LINES HERE -->
+<!-- EXAMPLE STRUCTURE: -->
+
+<a href="https://github.com/madhan404/project-1" title="Source Code"><img src="https://img.shields.io/badge/-PROJECT NAME-blue?style=for-the-badge&logo=github" alt="PROJECT NAME"></a> <a href="https://demo-link-1.here" title="Live Preview"><img src="https://img.shields.io/badge/-Live Preview-green?style=for-the-badge&logo=vercel" alt="Live Preview"></a><br>
+<a href="https://github.com/madhan404/project-2" title="Source Code"><img src="https://img.shields.io/badge/-PROJECT NAME-blue?style=for-the-badge&logo=github" alt="PROJECT NAME"></a> <a href="https://demo-link-2.here" title="Live Preview"><img src="https://img.shields.io/badge/-Live Preview-green?style=for-the-badge&logo=vercel" alt="Live Preview"></a><br>
+<a href="https://github.com/madhan404/project-3" title="Source Code"><img src="https://img.shields.io/badge/-PROJECT NAME-blue?style=for-the-badge&logo=github" alt="PROJECT NAME"></a> <a href="https://demo-link-3.here" title="Live Preview"><img src="https://img.shields.io/badge/-Live Preview-green?style=for-the-badge&logo=vercel" alt="Live Preview"></a><br>
+<a href="https://github.com/madhan404/project-4" title="Source Code"><img src="https://img.shields.io/badge/-PROJECT NAME-blue?style=for-the-badge&logo=github" alt="PROJECT NAME"></a> <a href="https://demo-link-4.here" title="Live Preview"><img src="https://img.shields.io/badge/-Live Preview-green?style=for-the-badge&logo=vercel" alt="Live Preview"></a><br>
+<a href="https://github.com/madhan404/project-5" title="Source Code"><img src="https://img.shields.io/badge/-PROJECT NAME-blue?style=for-the-badge&logo=github" alt="PROJECT NAME"></a> <a href="https://demo-link-5.here" title="Live Preview"><img src="https://img.shields.io/badge/-Live Preview-green?style=for-the-badge&logo=vercel" alt="Live Preview"></a><br>
 
 **Instructions:**  
-Replace `Project Name 1`, the GitHub link, and `Live Preview` with your actual project names, source code repos, and demo URLs (all from your portfolio).  
-Add or remove lines as needed.
+- Replace `PROJECT NAME`, `https://github.com/madhan404/project-1`, and `https://demo-link-1.here` with your **actual project names, GitHub repo links, and live demo URLs** from your portfolio.
+- Add or remove lines as needed.
+- These badges are **full-width, single-line, and highly responsive**—just like you asked.
 
 ---
 
@@ -48,32 +57,30 @@ Add or remove lines as needed.
 
 ---
 
-## 🏆 GitHub Stats
+## 🏆 GitHub Highlights
 
-<table>
-  <tr>
-    <td style="border: none;">
-      <img src="https://github-readme-stats.vercel.app/api?username=madhan404&show_icons=true&theme=github_dark" alt="GitHub Stats" />
-    </td>
-    <td style="border: none;">
-      <img src="https://streak-stats.demolay.com?user=madhan404&theme=github-dark-blue" alt="GitHub Streak" />
-    </td>
-  </tr>
-</table>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=madhan404&show_icons=true&theme=dark&include_all_commits=true" alt="GitHub Stats" width="48%">
+  <img src="https://streak-stats.demolab.com/?user=madhan404&theme=github-dark-blue" alt="GitHub Streak" width="48%">
+</div>
 
 ---
 
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=madhan404&bg_color=0d1117&color=58a6ff&line=1f6feb&point=ffffff&area=true&hide_border=false)
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=madhan404&bg_color=0d1117&color=58a6ff&line=1f6feb&point=ffffff&area=true&hide_border=false" alt="Activity Graph" width="90%">
+</div>
 
 ---
 
 <p align="center">
-  <img src="assets/github-snake.svg" alt="snake"/>
+  <img src="assets/github-snake.svg" alt="Snake Animation">
 </p>
 
 ---
 
-### 🌈 Let’s Build, Create & Innovate
+### 🌈 Ready to Innovate?
 
-If you have an idea, a challenge, or just want to talk tech, design, or AI, **I’m just an email or message away**.  
-Let’s make something awesome together! 🧑‍💻✨
+If you have an idea, a challenge, or just want to talk tech, design, or AI—**reach out!**  
+Let’s make something awesome together. 🧑‍💻✨
+
+💡 **Pro tip:** Keep your projects section updated—**GitHub is your living portfolio!**
