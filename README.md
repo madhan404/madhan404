@@ -16,39 +16,39 @@
   <tr>
     <td valign="top" align="center" width="25%">
       <h4>Mobile & Frontend</h4>
-      <img src="https://img.icons8.com/color/40/000000/react-native.png" alt="React Native" title="React Native" />&nbsp;
-      <img src="https://img.icons8.com/color/40/000000/flutter.png" alt="Flutter" title="Flutter" />&nbsp;
-      <img src="https://img.icons8.com/color/40/000000/javascript.png" alt="JavaScript" title="JavaScript" />&nbsp;
-      <img src="https://img.icons8.com/color/40/000000/react-xaxis.png" alt="React.js" title="React.js" />&nbsp;
+      <img src="https://img.icons8.com/color/40/000000/react-native.png" alt="React Native" title="React Native" /><br>
+      <img src="https://img.icons8.com/color/40/000000/flutter.png" alt="Flutter" title="Flutter" /><br>
+      <img src="https://img.icons8.com/color/40/000000/javascript.png" alt="JavaScript" title="JavaScript" /><br>
+      <img src="https://img.icons8.com/color/40/000000/react-xaxis.png" alt="React.js" title="React.js" /><br>
       <img src="https://img.icons8.com/color/40/000000/html-5.png" alt="HTML5" title="HTML5" />
     </td>
     <td valign="top" align="center" width="25%">
       <h4>Backend & AI</h4>
-      <img src="https://img.icons8.com/color/40/000000/nodejs.png" alt="Node.js" title="Node.js" />&nbsp;
-      <img src="https://img.icons8.com/color/40/000000/python.png" alt="Python" title="Python" />&nbsp;
-      <img src="https://img.icons8.com/fluency/40/000000/api.png" alt="REST APIs" title="REST APIs" />&nbsp;
-      <img src="https://raw.githubusercontent.com/n8n-io/n8n/master/assets/n8n-logo.svg" alt="n8n" title="n8n Automation" width="40" height="40" />
+      <img src="https://img.icons8.com/color/40/000000/nodejs.png" alt="Node.js" title="Node.js" /><br>
+      <img src="https://img.icons8.com/color/40/000000/python.png" alt="Python" title="Python" /><br>
+      <img src="https://img.shields.io/badge/REST_API-0052CC?style=for-the-badge&logo=postman&logoColor=white" alt="REST APIs" title="REST APIs" width="85" style="margin-top: 8px; margin-bottom: 8px;" /><br>
+      <img src="https://img.shields.io/badge/n8n-FF6C37?style=for-the-badge&logo=n8n&logoColor=white" alt="n8n" title="n8n Workflow Automation" width="65" />
     </td>
     <td valign="top" align="center" width="25%">
       <h4>Database</h4>
-      <img src="https://img.icons8.com/color/40/000000/mongodb.png" alt="MongoDB" title="MongoDB" />&nbsp;
-      <img src="https://img.icons8.com/color/40/000000/mysql.png" alt="MySQL" title="MySQL" />&nbsp;
-      <img src="https://img.icons8.com/color/40/000000/microsoft-sql-server.png" alt="MSSQL" title="MSSQL" />
+      <img src="https://img.icons8.com/color/40/000000/mongodb.png" alt="MongoDB" title="MongoDB" /><br>
+      <img src="https://img.icons8.com/color/40/000000/mysql.png" alt="MySQL" title="MySQL" /><br>
+      <img src="https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white" alt="MSSQL" title="MSSQL" width="95" style="margin-top: 10px;" />
     </td>
     <td valign="top" align="center" width="25%">
-      <h4>Dev Tools</h4>
-      <img src="https://img.icons8.com/color/40/000000/visual-studio-code-2019.png" alt="VS Code" title="VS Code" />&nbsp;
-      <img src="https://img.icons8.com/color/40/000000/git.png" alt="Git" title="Git" />&nbsp;
-      <img src="https://img.icons8.com/color/40/000000/docker.png" alt="Docker" title="Docker" />&nbsp;
-      <img src="https://img.icons8.com/color/40/000000/brain.png" alt="LM Studio / Ollama" title="AI Environments" />
+      <h4>Dev Tools & Engines</h4>
+      <img src="https://img.icons8.com/color/40/000000/visual-studio-code-2019.png" alt="VS Code" title="VS Code" /><br>
+      <img src="https://img.icons8.com/color/40/000000/git.png" alt="Git" title="Git" /><br>
+      <img src="https://img.icons8.com/color/40/000000/docker.png" alt="Docker" title="Docker" /><br>
+      <img src="https://img.shields.io/badge/LM_Studio-1A1A2E?style=for-the-badge&logo=openai&logoColor=00FFCC" alt="LM Studio" title="LM Studio LLM Environment" width="90" style="margin-top: 8px;" />
     </td>
   </tr>
   <tr>
     <td colspan="4" valign="top" align="center">
       <h4>Creative System Engineering & Motion Design</h4>
-      <img src="https://img.icons8.com/color/40/000000/adobe-after-effects.png" alt="After Effects" title="Adobe After Effects" />&nbsp;
-      <img src="https://img.icons8.com/color/40/000000/davinci-resolve.png" alt="DaVinci Resolve" title="DaVinci Resolve" />&nbsp;
-      <img src="https://img.icons8.com/color/40/000000/blender-3d.png" alt="Blender 3D" title="Blender 3D" />&nbsp;
+      <img src="https://img.icons8.com/color/40/000000/adobe-after-effects.png" alt="After Effects" title="Adobe After Effects" />&nbsp;&nbsp;
+      <img src="https://img.icons8.com/color/40/000000/davinci-resolve.png" alt="DaVinci Resolve" title="DaVinci Resolve" />&nbsp;&nbsp;
+      <img src="https://img.icons8.com/color/40/000000/blender-3d.png" alt="Blender 3D" title="Blender 3D" />&nbsp;&nbsp;
       <img src="https://img.icons8.com/color/40/000000/figma.png" alt="Figma" title="Figma (UI/UX Design)" />
     </td>
   </tr>
